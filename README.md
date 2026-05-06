@@ -1,4 +1,4 @@
-# 🧠 SpecTruFace: Autism Spectrum Disorder Detection (ML-Based)
+# 👤 SpecTruFace: Autism Spectrum Disorder Detection (ML-Based)
 
 🚀 **Machine Learning system for Autism Spectrum Disorder (ASD) detection using facial landmark analysis**
 
